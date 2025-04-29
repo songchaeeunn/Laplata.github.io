@@ -1,2 +1,3 @@
-# team.Laplata
-2025 글로벌미디어학부 졸업전시 공개 웹페이지
+# SIDL
+**Welcome to the SIDL GitHub!**  
+The GitHub page is currently under construction. We will be back soon with the completed version!
