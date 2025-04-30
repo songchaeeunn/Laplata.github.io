@@ -4,7 +4,7 @@ permalink: /
 title: "Pet Caring"
 authors:
   - Chaeeun Song*
-  - yeeun Yang
+  - Yeeun Yang
     
 affiliations:
   - Soongsil University
