@@ -45,10 +45,8 @@ site: "[https://github.com/your-repo/dataset](https://petcaring.site/)"
 
 ### 뭉치 AI (로그인시 이용 가능)
 <div class="buttons" style="text-align: center; margin-top: 1em;">
-  <a class="button is-primary" href="http://43.202.9.123/html/chat/chatbot.html" target="_blank">Click here to launch evaluation</a>
+  <a class="button is-primary" href="http://43.202.9.123/html/chat/chatbot.html" target="_blank">AI</a>
 </div>  
-Click the button above to evaluate your model on the SIDL benchmark.
-
 
 ### ISP pipeline
 Coming soon
