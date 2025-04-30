@@ -36,6 +36,7 @@ site: "[https://github.com/your-repo/dataset](https://petcaring.site/)"
 
 <!-- Dataset Download Buttons -->
 
+
 ## Web site
 펫케어링 웹사이트에서 다양한 서비스를 경험해보세요.
 <div class="buttons" style="text-align: center; margin-top: 1em;">
@@ -51,17 +52,5 @@ site: "[https://github.com/your-repo/dataset](https://petcaring.site/)"
 ### ISP pipeline
 Coming soon
 
-
-### Citation
-<pre><code class="language-bibtex">
-@inproceedings{choi2025sidl,
-  title     = {SIDL: A Real-World Dataset for Restoring Smartphone Images with Dirty Lenses},
-  author    = {Choi, Sooyoung and Park, Sungyong and Kim, Heewon},
-  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume    = {39},
-  number    = {3},
-  pages     = {2545--2554},
-  year      = {2025}
-}
 </code></pre>
 
