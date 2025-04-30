@@ -3,11 +3,12 @@ layout: project_page
 permalink: /
 title: "Pet Caring"
 authors:
-  - Chaeeun Song
-  - Yeeun Yang
+  - Chaeeun Song*
+  - yeeun Yang
     
 affiliations:
   - Soongsil University
+
 paper: "https://ojs.aaai.org/index.php/AAAI/article/view/32257"
 video: "https://youtu.be/5nSJh-IPWd0"
 code: "https://github.com/sidl-benchmark/sidl-benchmark.github.io"
@@ -40,7 +41,7 @@ We provide 80% of the scenes for training and learning. The remaining scenes are
 ### Patchify images (512x512)
 For efficient training and learning, we provide patchified images. 
 <div class="buttons" style="text-align: center; margin-top: 1em;">
-  <a class="button is-primary" href="https://drive.google.com/file/d/1es3rPo5Y9O96EjDVXanUY8NpaRprWH-h/view?usp=sharing" target="_blank">Train</a>
+  <a class="button is-primary" href="https://petcaring.site/" target="_blank">site</a>
   <a class="button is-primary" href="https://drive.google.com/file/d/1u5-MDauO3XolXsU6eOARwlXo7SnpLwqA/view?usp=sharing" target="_blank">Validation</a>
   <a class="button is-primary" href="https://drive.google.com/file/d/1-SFyyjH0G3C68OfDjZ_O7M4mOqkcJdEf/view?usp=sharing" target="_blank">Test</a>
 </div>
