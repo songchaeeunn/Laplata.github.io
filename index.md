@@ -16,9 +16,11 @@ site: "http://petcaring.site/"
 
 <body>
   <hr>
-  <video src="images/videoPetCaring.mp4" controls style="display: block; margin: auto;">
+ 
   
-  </video>
+<video src="images/videoPetCaring.mp4" autoplay loop muted playsinline style="display: block; margin: auto;">
+  
+</video>
 
 </body>
 
