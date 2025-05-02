@@ -24,14 +24,15 @@ site: "http://petcaring.site/"
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
     <h2>Abstract</h2>
-    <div class="has-text-centered">
+    <div class="has-text-centered content" style="line-height: 1.8;">
       <p>강아지 고양이 영양 정보를 AI 뭉치에게 물어보세요!</p>
-      <p>강아지 고양이에게 일반식과 영양제를 줄 때, AI 뭉치를 이용하면 영양성분 정보를 빠르고 간편하게 얻을 수 있습니다.</p>
-      <p>어디놀러갈지 고민 될때는 장소 추천 서비스를, 질문은 커뮤니티를 이용해보세요.</p>
+      <p>강아지 고양이에게 일반식과 영양제를 줄 때,<br>AI 뭉치를 이용하면 영양성분 정보를 빠르고 간편하게 얻을 수 있습니다.</p>
+      <p>어디 놀러 갈지 고민될 때는 장소 추천 서비스를,<br>질문은 커뮤니티를 이용해보세요.</p>
     </div>
   </div>
 </div>
 <br><br>
+
 
  <img src = "images/placeIMG.png" alt = "Example 001" style="display: block; margin: auto;">
  <div class="columns is-centered has-text-centered">
