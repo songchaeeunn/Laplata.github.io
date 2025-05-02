@@ -16,8 +16,10 @@ site: "http://petcaring.site/"
 
 <body>
   <hr>
-  <img src = "images/videoPetCaring.mp4" alt = "Example 001" style="display: block; margin: auto;">
+  <video src="images/videoPetCaring.mp4" controls style="display: block; margin: auto;">
   
+  </video>
+
 </body>
 
 
