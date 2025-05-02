@@ -37,7 +37,7 @@ site: "[https://github.com/your-repo/dataset](https://petcaring.site/)"
  <img src = "images/placeIMG.png" alt = "Example 001" style="display: block; margin: auto;">
  <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
-    <h2>Abstract</h2>
+    <h2>Place</h2>
     <div class="content has-text-justified">
       장소 추천 서비스 페이지입니다. <br>
       웹페이지의 장소 검색 엔진은 광고의 영향을 많이 받아 사용자에게 카페 및 음식점 위주의 장소를 추천했습니다. <br>
@@ -51,7 +51,7 @@ site: "[https://github.com/your-repo/dataset](https://petcaring.site/)"
 <img src = "images/commuIMG.png" alt = "Example 001" style="display: block; margin: auto;">
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
-    <h2>Abstract</h2>
+    <h2>Community</h2>
     <div class="content has-text-justified">
       사용자끼리 소통이 가능한 커뮤니티 페이지입니다.<br>
       사용자는 강아지와 고양이에 대해 자유롭게 질문하고 답변을 남길 수 있습니다.
@@ -63,7 +63,7 @@ site: "[https://github.com/your-repo/dataset](https://petcaring.site/)"
 <img src = "images/AIimg.png" alt = "Example 001" style="display: block; margin: auto;">
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
-    <h2>Abstract</h2>
+    <h2>AI</h2>
     <div class="content has-text-justified">
       저장된 반려동물 정보를 기반으로 맞춤형 영양 정보를 제공하는 뭉치 AI의 답변입니다. <br>
       반려동물의 이름, 품종, 비만 등 질병 정보를 반영하여 개별화된 답변을 제공합니다. <br>
@@ -89,9 +89,6 @@ site: "[https://github.com/your-repo/dataset](https://petcaring.site/)"
 <div class="buttons" style="text-align: center; margin-top: 1em;">
   <a class="button is-primary" href="http://43.202.9.123/html/chat/chatbot.html" target="_blank">AI</a>
 </div>  
-
-### ISP pipeline
-Coming soon
 
 </code></pre>
 
