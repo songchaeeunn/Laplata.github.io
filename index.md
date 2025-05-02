@@ -26,8 +26,8 @@ site: "[https://github.com/your-repo/dataset](https://petcaring.site/)"
   <div class="column is-four-fifths">
     <h2>Abstract</h2>
     <div class="content has-text-justified">
-      강아지 고양이 영양 정보를 AI 뭉치에게 물어보세요!
-      강아지 고양이에게 일반식과 영양제를 줄 때, AI 뭉치를 이용하면 영양성분 정보를 빠르고 간편하게 얻을 수 있습니다.
+      강아지 고양이 영양 정보를 AI 뭉치에게 물어보세요!<br>
+      강아지 고양이에게 일반식과 영양제를 줄 때, AI 뭉치를 이용하면 영양성분 정보를 빠르고 간편하게 얻을 수 있습니다.<br>
       어디놀러갈지 고민 될때는 장소 추천 서비스를, 질문은 커뮤니티를 이용해보세요.
     </div>
   </div>
