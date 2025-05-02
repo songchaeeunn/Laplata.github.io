@@ -17,7 +17,7 @@ site: "[https://github.com/your-repo/dataset](https://petcaring.site/)"
 
 <body>
   <hr>
-  <img src = "images/Ex01.jpg" alt = "Example 001" style="display: block; margin: auto;">
+  <img src = "images/mainIMG.jpg" alt = "Example 001" style="display: block; margin: auto;">
 </body>
 
 
