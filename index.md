@@ -9,10 +9,9 @@ authors:
 affiliations:
   - Soongsil University
 
-paper: "https://ojs.aaai.org/index.php/AAAI/article/view/32257"
 video: "https://youtu.be/5nSJh-IPWd0"
-code: "https://github.com/sidl-benchmark/sidl-benchmark.github.io"
-site: "[https://github.com/your-repo/dataset](https://petcaring.site/)"
+code: "https://github.com/songchaeeunn/petcaring.git"
+site: "http://petcaring.site/"
 ---
 
 <body>
