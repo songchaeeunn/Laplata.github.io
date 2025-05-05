@@ -10,7 +10,6 @@ affiliations:
   - Soongsil University
 
 video: "https://youtu.be/5nSJh-IPWd0"
-<!--code: "https://github.com/songchaeeunn/petcaring.git"-->
 site: "http://petcaring.site/"
 ---
 
