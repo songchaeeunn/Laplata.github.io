@@ -23,11 +23,11 @@ site: "http://petcaring.site/"
 
 </body>
 
-
+<br><br>
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
-    <h2>Abstract</h2>
+    <br>
     <div class="has-text-centered">
       <p>강아지 고양이 영양 정보를 AI 뭉치에게 물어보세요!</p>
       <p>강아지 고양이에게 일반식과 영양제를 줄 때, </p>
