@@ -14,7 +14,6 @@ site: "http://petcaring.site/"
 
 <div align="center">
 
-[![Video Demo](https://img.shields.io/badge/Video-Demo-red?logo=youtube)](https://youtu.be/5nSJh-IPWd0)
 [![Visit Site](https://img.shields.io/badge/Visit-Site-green)](http://petcaring.site/)
 
 <br>
@@ -111,12 +110,6 @@ site: "http://petcaring.site/"
 
 ---
 
-## Reference
-
-- [프로젝트 소개 영상 바로가기](https://youtu.be/5nSJh-IPWd0)
-- [펫케어링 공식 사이트](http://petcaring.site/)
-
----
 
 <div align="center" style="color:#888; font-size:0.95em;">
 서울시 동작구 상도로 369(상도동, 숭실대학교) <br>
