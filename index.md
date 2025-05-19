@@ -7,7 +7,6 @@ authors:
   - Yeeun Yang
 affiliations:
   - Soongsil University
-video: "https://youtu.be/5nSJh-IPWd0"
 site: "http://petcaring.site/"
 ---
 
@@ -20,7 +19,6 @@ site: "http://petcaring.site/"
 
 <br>
 
-<video src="images/videoPetCaring.mp4" autoplay loop muted playsinline width="70%" style="display: block; margin: auto; border-radius: 10px;"></video>
 
 </div>
 
