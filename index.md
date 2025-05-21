@@ -95,12 +95,17 @@ site: "http://petcaring.site/"
 </details>
 
 <details>
-  <summary><b>Q. AI 챗봇이 실제 사람처럼 상담해주나요?</b></summary>
+  <summary><b>Front-end</b></summary>
   <ul>
-    <li>뭉치는 실제 상담 전문가의 대화 데이터를 학습하여, 공감과 조언을 제공합니다.</li>
+    <li>송채은</li>
   </ul>
 </details>
-
+<details>
+  <summary><b>Back-end</b></summary>
+  <ul>
+    <li>양예은</li>
+  </ul>
+</details>
 <details>
   <summary><b>Q. 서비스 이용에 비용이 드나요?</b></summary>
   <ul>
