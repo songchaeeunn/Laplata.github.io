@@ -2,7 +2,7 @@
 ---
 
 <div align="center">
-  <img src="images/poster2.gif" alt="장소 추천 서비스" width="60%" style="border-radius: 10px;"/>
+  <img src="images/poster2.gif" alt="장소 추천 서비스" width="100%" style="border-radius: 10px;"/>
 </div>
 
 
