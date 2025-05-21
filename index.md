@@ -39,12 +39,9 @@ site: "http://petcaring.site/"
 ### 🗺️ 장소 추천
 
 <div align="center">
-  <img src="images/placeIMG.png" alt="장소 추천 서비스" width="60%" style="border-radius: 10px;"/>
+  <img src="images/poster2.pdf" alt="장소 추천 서비스" width="60%" style="border-radius: 10px;"/>
 </div>
 
-- 광고/매크로 없이 우리집 반려동물과 어울리는 장소를 추천합니다.
-- 카페·음식점 위주가 아닌, 관광지(프로방스, 팜랜드 등)도 포함!
-- 트리 기반 추천 알고리즘으로 **반려동물 출입 가능 장소**만 안내합니다.
 
 ---
 
@@ -83,35 +80,8 @@ site: "http://petcaring.site/"
   </a>
 </div>
 
----
 
-## FAQ
 
-<details>
-  <summary><b>Q. 질문/상담 내용은 안전한가요?</b></summary>
-  <ul>
-    <li>네, 모든 상담 내용은 안전하게 암호화되어 저장되며, 외부에 공개되지 않습니다.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Front-end</b></summary>
-  <ul>
-    <li>송채은</li>
-  </ul>
-</details>
-<details>
-  <summary><b>Back-end</b></summary>
-  <ul>
-    <li>양예은</li>
-  </ul>
-</details>
-<details>
-  <summary><b>Q. 서비스 이용에 비용이 드나요?</b></summary>
-  <ul>
-    <li>모든 서비스는 무료로 제공됩니다.</li>
-  </ul>
-</details>
 
 ---
 
